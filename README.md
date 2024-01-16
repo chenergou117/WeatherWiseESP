@@ -1,0 +1,2 @@
+# WeatherWiseESP
+基于esp8266和dht20制作的联网温湿度传感器；项目中dht20感知温湿度信息并通过wifi发送至指定的mqtt服务器；可以在homeisstant中订阅mqtt服务的信息用以在线监测；
